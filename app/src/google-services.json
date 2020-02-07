@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498733366755",
+    "firebase_url": "https://expensemanager-3e1eb.firebaseio.com",
+    "project_id": "expensemanager-3e1eb",
+    "storage_bucket": "expensemanager-3e1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498733366755:android:3af956aae36155bc5df4d6",
+        "android_client_info": {
+          "package_name": "com.example.expense_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498733366755-i81au8fg2kuhg34qhjaj28e4shomduj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense_manager",
+            "certificate_hash": "206e6cca313f537dd60b7f9fe02f13732bad0318"
+          }
+        },
+        {
+          "client_id": "498733366755-jadam2immhg4mf0kgss1bj6j9o7fv26f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaySVVb3wQ01FCzislQzranyHhEEOHlRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498733366755-jadam2immhg4mf0kgss1bj6j9o7fv26f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
